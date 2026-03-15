@@ -52,3 +52,4 @@ let friendFavorites = [
 
 // 10. STRETCH: Find the longest food name and print:
 // "The longest food name in the list is ______ with ___ characters."
+
